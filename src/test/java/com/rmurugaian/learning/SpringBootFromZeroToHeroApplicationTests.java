@@ -1,4 +1,4 @@
-package com.rmurugaian.organizations.springbootfromzerotohero;
+package com.rmurugaian.learning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,8 +8,6 @@ import org.springframework.context.annotation.Import;
 @SpringBootTest
 class SpringBootFromZeroToHeroApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
-
+  @Test
+  void contextLoads() {}
 }
